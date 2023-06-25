@@ -6,13 +6,13 @@ intermediate difficulty
 fakeout
 
 par 2
-![[Level J_A]]
+![[J_A]]
 
 #### J_B
 
 low difficulty
 par 2
-![[Level J_B]]
+![[J_B]]
 
 ## QZ
 
@@ -22,21 +22,22 @@ par 2
 high difficulty
 
 par1
-![[Level Q_A]]
+![[Q_A]]
 
 #### Q_B The Victorian
 
 
 high difficulty
 
-![[Level Q_B]]
+![[Q_B]]
 
 #### Q_C The Classic
 
 
-Introductory Level
+tutorial candidate
+
 par oo
-![[Level Q_C]]
+![[Q_C]]
 
 
 #### Q_D 
@@ -44,7 +45,7 @@ suggested by jake
 Difficulty: very hard
 par 3
 
-![[Level Q_D]]
+![[Q_D]]
 
 #### Q_E - The Mountain
 
@@ -52,7 +53,7 @@ high difficulty
 par 2
 
 
-![[Level Q_E]]
+![[Q_E]]
 
 
 #### Q_F - The Snake
@@ -60,12 +61,13 @@ Difficulty: Medium
 par 2
 
 
-![[Level Q_F]]
+![[Q_F]]
 
 #### Q_G
+tutorial candidate
 
 
-![[Level Q_G]]
+![[Q_G]]
 
 
 
@@ -75,7 +77,7 @@ Par 4
 par 1 trickshot
 Difficulty: Mediumt
 
-![[Level Q_H]]
+![[Q_H]]
 
 #### Q_I
 
