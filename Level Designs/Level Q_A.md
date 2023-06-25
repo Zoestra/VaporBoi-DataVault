@@ -1737,6 +1737,58 @@ bushes ^bfXkwCyE
 					148.14819335937523
 				]
 			]
+		},
+		{
+			"type": "rectangle",
+			"version": 226,
+			"versionNonce": 1918286773,
+			"isDeleted": false,
+			"id": "mMC1wuK4jI4W7xPMfXvZ8",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dotted",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": -413.36080160212015,
+			"y": -430.69652168635116,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#1971c2",
+			"width": 301.6986602455059,
+			"height": 15.093206918367803,
+			"seed": 907115861,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1687639832276,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 279,
+			"versionNonce": 1004164859,
+			"isDeleted": false,
+			"id": "WvuoObA4Zf61g2S2mk0ym",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "dotted",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 169.4171118093381,
+			"y": -427.9187100001533,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#1971c2",
+			"width": 301.6986602455059,
+			"height": 15.093206918367803,
+			"seed": 1070562581,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1687639837009,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -1754,7 +1806,7 @@ bushes ^bfXkwCyE
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1318.622514773638,
+		"scrollX": 1458.6225147736377,
 		"scrollY": 1044.4867025899603,
 		"zoom": {
 			"value": 0.6000000000000001

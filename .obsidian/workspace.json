@@ -6,44 +6,89 @@
       {
         "id": "e0b3ed080f6a737c",
         "type": "tabs",
-        "dimension": 66.75675675675676,
+        "dimension": 74.32432432432432,
         "children": [
           {
-            "id": "9e72f343f72416c4",
+            "id": "af1111ac5e7fb35f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Level Q_B.md"
+                "file": "Level Designs/Level Q_D.md"
               }
             }
           },
           {
-            "id": "e88a629009f71d8d",
+            "id": "32a668375aab7ada",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Level Q_A.md"
+                "file": "Level Designs/Level Q_B.md"
               }
             }
           },
           {
-            "id": "0da856d5ae5f605f",
+            "id": "811cffa6258a2fe6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Level J_B.md"
+                "file": "Level Designs/Level Q_F.md"
+              }
+            }
+          },
+          {
+            "id": "6ba801507b219d29",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Level Designs/Level Q_A.md"
+              }
+            }
+          },
+          {
+            "id": "db4ad334efc6f4ef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Level Designs/Level Q_G.md"
+              }
+            }
+          },
+          {
+            "id": "334ebf22a7cec622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85124273f867c994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scoring.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "68decfa63a835b2a",
         "type": "split",
-        "dimension": 33.24324324324324,
+        "dimension": 25.675675675675674,
         "children": [
           {
             "id": "ee3a8608d0d61ab7",
@@ -53,13 +98,15 @@
               {
                 "id": "7ecca6f62ea63015",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "VB Levels.md",
+                    "file": "Levels.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "pinned": true
                 }
               }
             ]
@@ -148,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Level Q_B.md",
+                "file": "Scoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Level Q_B.md",
+                "file": "Scoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Level Q_B.md"
+                "file": "Scoring.md"
               }
             }
           },
@@ -216,22 +263,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e72f343f72416c4",
+  "active": "85124273f867c994",
   "lastOpenFiles": [
+    "_Index.md",
+    "Scoring.md",
+    "Levels.md",
+    "Excalidraw/Level Q_H.md",
+    "Level Designs/Level Q_G.md",
+    "Excalidraw/Level Template.md",
+    "Level Designs/Level Q_B.md",
+    "Level Designs/Level Q_D.md",
+    "Level Designs/Level Q_A.md",
+    "Level Designs/Level Q_F.md",
+    "Level Designs/Level J_B.md",
+    "Level Designs/Level J_A.md",
+    "Level Designs/Level Q_E.md",
+    "Level Designs/Level Q_C.md",
+    "Level Designs",
     "VaporBoi_Datavault",
     "New Text Document.txt",
     "VaporBoi-Vault",
-    "Level Q_A.md",
-    "Level J_B.md",
-    "Excalidraw/Level Q_B.md",
-    "Level J_A.md",
-    "VB Levels.md",
     "Excalidraw",
-    "_VaporBoi_Index.md",
     "VaporBoi.md"
   ]
 }
