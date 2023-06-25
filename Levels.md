@@ -22,14 +22,14 @@ par 2
 high difficulty
 
 par1
-![[Q_A]]
+![[Z_A]]
 
 #### Q_B The Victorian
 
 
 high difficulty
 
-![[Q_B]]
+![[Z_B]]
 
 #### Q_C The Classic
 
@@ -45,7 +45,7 @@ suggested by jake
 Difficulty: very hard
 par 3
 
-![[Q_D]]
+![[Z_D]]
 
 #### Q_E - The Mountain
 
@@ -53,7 +53,7 @@ high difficulty
 par 2
 
 
-![[Q_E]]
+![[Z_E]]
 
 
 #### Q_F - The Snake
@@ -61,13 +61,13 @@ Difficulty: Medium
 par 2
 
 
-![[Q_F]]
+![[Z_F]]
 
 #### Q_G
 tutorial candidate
 
 
-![[Q_G]]
+![[Z_G]]
 
 
 
@@ -77,9 +77,14 @@ Par 4
 par 1 trickshot
 Difficulty: Mediumt
 
-![[Q_H]]
+![[Z_H]]
 
 #### Q_I
+Medium Difficulty
+Par 2
+
+
+![[Z_I]]
 
 
 #### Q_J

@@ -1,1 +1,1 @@
-Each house s
+Each house is assigned a par rating. each throw that goes over par results in a score deduction

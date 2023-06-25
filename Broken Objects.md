@@ -1,0 +1,1 @@
+Points are deducted for breaking objects 
