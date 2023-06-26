@@ -1,2 +1,2 @@
-Points deducted for each step taken. 
-distance travelled is deducted from length of ideal path
+<font color="#9bbb59">Par Distance</font> is determined per-hole by the amount of distance required to walk for an "ideal" run.
+The Par Distance is then divided by the number of <font color="#548dd4">Par Throws</font>

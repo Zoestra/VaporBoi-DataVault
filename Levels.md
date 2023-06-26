@@ -1,3 +1,5 @@
+[[Level Template]]
+
 ## Jake
 
 #### J_A The S
@@ -37,7 +39,7 @@ high difficulty
 tutorial candidate
 
 par oo
-![[Q_C]]
+![[Z_C]]
 
 
 #### Q_D 
